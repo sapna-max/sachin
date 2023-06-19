@@ -1,7 +1,7 @@
+changes by bob
 
 
-changes made bye jadon
+class foo{ 
+	system.out.println("this is code by bob");
 
-class{
-system.out.println("this is code bye jadon")
-}
+	}
